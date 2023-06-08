@@ -51,4 +51,4 @@ En este proyecto se presenta el desarrollo de código que realicé para clonar l
 
 ### Demo Link
 
-Con el siguiente link puedes visualizar el [PROYECTO TERMINADO](https://weverse.io/bts/feed)
+Con el siguiente link puedes visualizar el [PROYECTO TERMINADO](https://tubular-pixie-5ac5b6.netlify.app/)
