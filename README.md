@@ -11,7 +11,7 @@
 
 ### Nota  📩
 
-Este es uno de los varios proyectos que realize en el bootcamp de technolochicas PRO 2023, para conocer otros proyectos entra a mi repositorio general [REPOSITORIO GENERAL DE TECNOLOCHICAS PRO ](https://github.com/dlhr06/TecnolochicasPRO23)
+Este es uno de los varios proyectos que realize en el bootcamp de technolochicas PRO 2023, para conocer otros proyectos entra al [REPOSITORIO GENERAL DE TECNOLOCHICAS PRO ](https://github.com/dlhr06/TecnolochicasPRO23)
 
 ****
 
