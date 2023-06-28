@@ -1,6 +1,6 @@
 # Clone Google Project
 
-## Cloning of the Google interface created with HTML5 and CSS3 in the Technolochicas PRO 2023 bootcamp.
+## Cloning of the Google interface created with HTML5 and CSS3 in the Technolochicas PRO 2023 bootcamp. 🎀💻
 
 ### Index
 
@@ -9,13 +9,17 @@
 3. Project objective ✅
 4. Demo link 🔗
 
+### Nota  📩
+
+Este es uno de los varios proyectos que realize en el bootcamp de technolochicas PRO 2023, para conocer otros proyectos entra a mi repositorio general [REPOSITORIO GENERAL DE TECNOLOCHICAS PRO ](https://github.com/dlhr06/TecnolochicasPRO23)
+
 ****
 
 ### 1. Introduction
 
 #### English 🇺🇸 🇬🇧 🇨🇦
 
-HTML5 and CSS3 work together to create websites that we use every day. Even, this website where you are viewing this content is built with HTML and CSS.
+HTML5 and CSS3 work together to create websites that we use every day. The website where you view this content is built with HTML and CSS.
 
 I have carried out this project using the HTML and CSS knowledge I acquired in the bootcamp, with the goal of coding a program to clone the Google interface.
 
@@ -30,7 +34,7 @@ He llevado a cabo este proyecto utilizando los conocimientos de HTML y CSS que a
 
 #### English 🇺🇸 🇬🇧 🇨🇦
 
-This project presents the code development I did to clone the Google search interface. The project consists of the following sections:
+This project presents my code development to clone the Google search interface. The project consists of the following sections:
 
 1. Header: This section includes the user's profile picture, the Google tools icons and the hyperlinks menu.
 
